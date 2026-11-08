@@ -8,6 +8,8 @@
 
 Desenvolvo sistemas web para rotinas de operação, de portais de coleta a ferramentas de controle financeiro. Trabalho com interfaces em React e TypeScript e uso Supabase e PostgreSQL para dar suporte a esses fluxos.
 
+<p align="center"><a href="#projetos-em-destaque">Projetos em destaque</a> · <a href="#tecnologias">Tecnologias</a> · <a href="#atividade-no-github">Atividade no GitHub</a></p>
+
 ## Projetos em destaque
 
 | Projeto | O que faz |
