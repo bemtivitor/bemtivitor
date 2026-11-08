@@ -14,6 +14,8 @@ Desenvolvo sistemas web para rotinas de operação, de portais de coleta a ferra
 | :--- | :--- |
 | **ELO4 Coletas** | Portal para registrar e acompanhar coletas na operação logística. |
 | **ELO4 Financeiro** | Sistema para controle financeiro e consulta de relatórios. |
+| **ELO4 Ponto** | Sistema de ponto digital para registrar jornadas de trabalho. |
+| **Vitrine Aromas** | Vitrine digital de produtos de aromas. |
 | [**Pilgrim**](https://github.com/bemtivitor/pilgrim) | Projeto de loja de roupas desenvolvido com Next.js e TypeScript. |
 | [**Portfólio**](https://github.com/bemtivitor/portifolio) | Portfólio web com visual inspirado na Steam. |
 
@@ -33,7 +35,7 @@ Desenvolvo sistemas web para rotinas de operação, de portais de coleta a ferra
 
 ## Atividade no GitHub
 
-[![6 repositórios públicos](https://img.shields.io/badge/Repositórios_públicos-6-8bdcff?style=flat-square&labelColor=161b22)](https://github.com/bemtivitor?tab=repositories)
-[![21 contribuições exibidas no último ano](https://img.shields.io/badge/Contribuições_no_último_ano-21-8bdcff?style=flat-square&labelColor=161b22)](https://github.com/bemtivitor#js-contribution-activity-description)
+![Estatísticas do GitHub de bemtivitor](https://github-readme-stats-fast.vercel.app/api?username=bemtivitor&show_icons=true&hide_rank=true&bg_color=0d1117&title_color=8bdcff&text_color=c9d1d9&icon_color=8bdcff&border_color=30363d&locale=pt-br)
+![Linguagens mais usadas nos repositórios públicos de bemtivitor](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bemtivitor&layout=compact&langs_count=6&card_width=350&bg_color=0d1117&title_color=8bdcff&text_color=c9d1d9&icon_color=8bdcff&border_color=30363d&locale=pt-br)
 
-<sub>Números do perfil público em 8 nov. 2026. O gráfico de contribuições do GitHub fica disponível abaixo no perfil.</sub>
+<sub>Os cards se atualizam automaticamente a partir dos dados públicos do GitHub. O gráfico de contribuições fica abaixo no perfil.</sub>
