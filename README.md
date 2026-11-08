@@ -40,4 +40,6 @@ Desenvolvo sistemas web para rotinas de operação, de portais de coleta a ferra
 ![Estatísticas do GitHub de bemtivitor](https://github-readme-stats-fast.vercel.app/api?username=bemtivitor&show_icons=true&hide_rank=true&bg_color=0d1117&title_color=8bdcff&text_color=c9d1d9&icon_color=8bdcff&border_color=30363d&locale=pt-br)
 ![Linguagens mais usadas nos repositórios públicos de bemtivitor](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bemtivitor&layout=compact&langs_count=6&card_width=350&bg_color=0d1117&title_color=8bdcff&text_color=c9d1d9&icon_color=8bdcff&border_color=30363d&locale=pt-br)
 
-<sub>Os cards se atualizam automaticamente a partir dos dados públicos do GitHub. O gráfico de contribuições fica abaixo no perfil.</sub>
+Os cards se atualizam automaticamente com dados públicos do GitHub. O card de linguagens mostra a distribuição do código nos repositórios públicos.
+
+[Ver o gráfico de contribuições no GitHub](https://github.com/bemtivitor#js-contribution-activity-description)
